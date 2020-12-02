@@ -1,0 +1,63 @@
+bluenrg_gatt_aci.pbi: \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\Middlewares\ST\BlueNRG-MS\hci\controller\bluenrg_gatt_aci.c \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Middlewares/ST/BlueNRG-MS/includes\bluenrg_types.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Full.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Middlewares/ST/BlueNRG-MS/includes\bluenrg_def.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Middlewares/ST/BlueNRG-MS/includes/bluenrg_types.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Middlewares/ST/BlueNRG-MS/includes\hci_const.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Middlewares/ST/BlueNRG-MS/includes/link_layer.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Middlewares/ST/BlueNRG-MS/includes/bluenrg_def.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Middlewares/ST/BlueNRG-MS/hci/hci_tl_patterns/Basic\hci_tl.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Inc\hci_tl_interface.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Inc/custom_bus.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Inc/custom_conf.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc\stm32f0xx_hal.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Inc\stm32f0xx_hal_conf.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc\stm32f0xx_hal_rcc.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_def.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/CMSIS/Device/ST/STM32F0xx/Include\stm32f0xx.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f030x8.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/CMSIS/Include\core_cm0.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/CMSIS/Include/cmsis_version.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/CMSIS/Include/cmsis_compiler.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/CMSIS/Include\cmsis_iccarm.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\iccarm_builtin.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/CMSIS/Device/ST/STM32F0xx/Include/system_stm32f0xx.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stddef.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ysizet.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_rcc_ex.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc\stm32f0xx_hal_gpio.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_gpio_ex.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc\stm32f0xx_hal_exti.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc\stm32f0xx_hal_dma.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_dma_ex.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc\stm32f0xx_hal_cortex.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc\stm32f0xx_hal_flash.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_flash_ex.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc\stm32f0xx_hal_i2c.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c_ex.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc\stm32f0xx_hal_pwr.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc\stm32f0xx_hal_spi.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_spi_ex.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc\stm32f0xx_hal_uart.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart_ex.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Drivers/BSP/custom\custom_errno.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Middlewares/ST/BlueNRG-MS/utils\ble_list.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Inc\bluenrg_conf.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\string.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product_string.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Middlewares/ST/BlueNRG-MS/includes/compiler.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Middlewares/ST/BlueNRG-MS/includes\bluenrg_aci_const.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Middlewares/ST/BlueNRG-MS/includes/hci_const.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Middlewares/ST/BlueNRG-MS/includes/bluenrg_gatt_server.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Middlewares/ST/BlueNRG-MS/includes\bluenrg_gatt_aci.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Middlewares/ST/BlueNRG-MS/includes\bluenrg_gatt_server.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Middlewares/ST/BlueNRG-MS/includes\bluenrg_gap.h \
+  C:\Users\misty\OneDrive\Desktop\Projects\BLESensorDemo\EWARM/../Middlewares/ST/BlueNRG-MS/includes\link_layer.h
